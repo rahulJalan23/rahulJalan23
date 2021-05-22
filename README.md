@@ -5,7 +5,7 @@
 - Its amazing to work on projects aiming to ulilise the massive computational resources to develop intresting projects combining.
 - I’m currently learning a lot more about a vareity of topics including different Web frameworks, backend Development.
 - I belive Sound/music related Web Applications have a lot of potential. 
-- I’m looking to collaborate on anythig 
+- I’m looking to collaborate on the projects related to any of the above fields.
 -  rahuljalan23.rj@gmail.com
 - https://www.linkedin.com/in/rahul-jalan-2a8b4a1a4
 
