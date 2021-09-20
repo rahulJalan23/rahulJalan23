@@ -4,7 +4,8 @@
 - I’m interested in contributing on Machine Learning and projects aiming to produce Higher Level Visual/Auditory results.
 - I’m looking to collaborate on projects related to mobile app and game 	:joystick: development.
 -  rahuljalan23.rj@gmail.com
-- https://www.linkedin.com/in/rahul-jalan-2a8b4a1a4
+- https://www.linkedin.com/in/rahuljalan23
+- https://drive.google.com/file/d/1hbmA_82RkUMzgeWQtvjubg2yB3q--Zmc/view
 
   
 <!---
