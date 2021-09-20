@@ -5,7 +5,7 @@
 - I’m looking to collaborate on projects related to mobile app and game 	:joystick: development.
 -  rahuljalan23.rj@gmail.com
 - https://www.linkedin.com/in/rahuljalan23
-- https://drive.google.com/file/d/1hbmA_82RkUMzgeWQtvjubg2yB3q--Zmc/view
+- Resume - https://drive.google.com/file/d/1hbmA_82RkUMzgeWQtvjubg2yB3q--Zmc/view
 
   
 <!---
