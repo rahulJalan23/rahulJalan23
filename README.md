@@ -5,7 +5,6 @@
 - Proficient with the MERN stack.
 -  rahuljalan23.rj@gmail.com
 - https://www.linkedin.com/in/rahuljalan23
-- Resume - https://drive.google.com/file/d/1hbmA_82RkUMzgeWQtvjubg2yB3q--Zmc/view
 
   
 <!---
