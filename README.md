@@ -1,7 +1,7 @@
 - Hi, My name is Rahul Jalan.
-- Full time learner, Engineer at NIT, Goa.(India)
 - Backend Developer in Node.js
 - Eager to learn and help towards the upcoming technolgy.
+- Engineer from NIT, Goa.(India)
 - rahuljalan23.rj@gmail.com
 - https://www.linkedin.com/in/rahuljalan23
 
