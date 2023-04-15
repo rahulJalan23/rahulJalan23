@@ -38,11 +38,13 @@ I am <a href="https://github.com/Gautam-Arora24">  Rahul Jalan</a>. I am a Backe
 •  How to reach me: </br>
 <a href="https://github.com/rahulJalan23"><img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757__340.png"/></a>
 <a href="https://www.linkedin.com/in/rahuljalan23/"><img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700__340.png"/></a>
+<a href="mailto:rahuljalan23.rj@gmail.com"><img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2016/06/13/17/30/mail-1454731_960_720.png"/></a>
+
 <br>
 
 
 
-<a href="mailto:rahuljalan23.rj@gmail.com"> 📧 </a> rahuljalan23.rj@gmail.com
+
 </br>
 <br/>
 
