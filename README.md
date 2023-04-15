@@ -15,7 +15,7 @@ class Student:
         self.role = "Backend Developer in Node.js"
         self.language_spoken = ["en_US", "hi"]
     def say_hi(self):
-        print("Thanks for dropping by, hope you find interesting my profile :)")
+        print("Thanks for dropping by, hope you find my profile interesting :)")
 me = Student()
 me.say_hi()
 
