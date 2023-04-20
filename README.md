@@ -64,7 +64,7 @@ I am <a href="https://github.com/Gautam-Arora24">  Rahul Jalan</a>. I am a Backe
  
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanck22&show_icons=true&locale=en&layout=compact&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" /></p>
 <p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=chandanck22&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p> -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=rahulJalan23&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p> -->
 
 <table cellpadding="0">
   <tr style="padding: 0">
