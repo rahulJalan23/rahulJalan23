@@ -26,7 +26,7 @@ me.say_hi()
 <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 </br>
 
-I am <a href="https://github.com/Gautam-Arora24">  Rahul Jalan</a>. I am a Backend Developer in Node.js. Contributing to numerous projects is what I love the most. <b>Node.js</b> is my weapon ⚔️. Besides programming, I love to play table tennis 🏓
+I am <a href="https://github.com/rahulJalan23">  Rahul Jalan</a>. I am a Backend Developer in Node.js. Contributing to numerous projects is what I love the most. <b>Node.js</b> is my weapon ⚔️. Besides programming, I love to play table tennis 🏓
 </br>
 
 <b>Talking About Myself</b></br>
@@ -69,7 +69,7 @@ I am <a href="https://github.com/Gautam-Arora24">  Rahul Jalan</a>. I am a Backe
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=chandanck22&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=rahulJalan23&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
     <!-- GitHub Top Language Card -->
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuljalan23&layout=compact&theme=radical&custom_title=Languages"/></td>
   </tr>
