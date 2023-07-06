@@ -9,14 +9,14 @@ You can click the Preview link to take a look at your changes.
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-class Student:
+class Deveoper:
     def __init__(self):
         self.name = "Rahul Jalan"
         self.role = "Backend Developer in Node.js"
         self.language_spoken = ["en_US", "hi"]
     def say_hi(self):
         print("Thanks for dropping by, hope you find my profile interesting :)")
-me = Student()
+me = Developer()
 me.say_hi()
 
 # PS: I know python too 😊
